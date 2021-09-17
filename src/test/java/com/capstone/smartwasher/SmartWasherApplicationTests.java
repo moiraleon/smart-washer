@@ -1,4 +1,4 @@
-package com.capstone.smartwasher.smartwasher;
+package com.capstone.smartwasher;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

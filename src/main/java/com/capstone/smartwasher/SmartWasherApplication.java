@@ -1,4 +1,4 @@
-package com.capstone.smartwasher.smartwasher;
+package com.capstone.smartwasher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

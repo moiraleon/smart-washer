@@ -10,4 +10,6 @@ public class SmartWasherApplication {
 		SpringApplication.run(SmartWasherApplication.class, args);
 	}
 
+
+
 }
